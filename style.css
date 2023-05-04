@@ -78,6 +78,7 @@ button:hover{
         grid-template-columns: 1fr;
         margin-top: 10px;
         margin-bottom: 10px;
+        min-width: 98%;
     }
     .grid-item1{
         border-bottom-left-radius: 0;
