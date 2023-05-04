@@ -1,8 +1,7 @@
 body{
-min-height: 100vh;
-display: flex;
-align-items: center;
-justify-content: center;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 95%);
 }
 .grid-container{
     display: grid;
